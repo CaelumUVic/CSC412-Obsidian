@@ -25,12 +25,14 @@
             "id": "8fbd3d321945baa5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "VirtualReality/Examples-of-experimental-platforms-to-study-virtual-embodiment-and-body-ownership.png"
+                "file": "References.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Examples-of-experimental-platforms-to-study-virtual-embodiment-and-body-ownership"
+              "icon": "lucide-file",
+              "title": "References"
             }
           },
           {
@@ -132,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 248.5
   },
   "right": {
     "id": "887ffab1b56d04bf",
@@ -224,13 +226,13 @@
   },
   "active": "18824809078fa883",
   "lastOpenFiles": [
-<<<<<<< HEAD
+    "Storytelling/The Real-Time Frontier.md",
+    "Empathy.md",
     "test.md",
     "Storytelling/Storytelling.md",
-    "Storytelling/References.md",
+    "References.md",
     "Storytelling/RealityTalk.md",
-    "Storytelling/Empathy.md",
-    "Storytelling/Communication.md",
+    "Terminology/Communication.md",
     "Storytelling/attachments/Pasted image 20250228095800.png",
     "Storytelling/attachments/Pasted image 20250228083700.png",
     "Storytelling/attachments/Pasted image 20250227174803.png",
@@ -238,7 +240,6 @@
     "Storytelling/attachments/Pasted image 20250225115958.png",
     "Storytelling/attachments/Pasted image 20250225120053.png",
     "Storytelling/attachments",
-    "The Real-Time Frontier.md",
     "Storytelling.md",
     "RealityTalk.md",
     "Communication.md",
@@ -248,13 +249,6 @@
     "attachments/Pasted image 20250227161545.png",
     "attachments",
     "Storytelling",
-=======
-    "Images",
-    "Story Telling",
-    "Virtual Reality",
-    "Social Media and Digital Communication",
-    "Artificial Intelligence",
->>>>>>> f677f26e73cee16f605cebfa7531fb83c93d7511
     "Empathy.md",
     "References.md",
     "Empathy (Main Node).md",

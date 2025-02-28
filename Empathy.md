@@ -1,0 +1,3 @@
+## INTRODUCTION TO COGNITIVE EMPATHY:
+
+Empathy is the heart of human connection shaping how we communicate, form relationships, and understand one another. In a world with a rapidly expanding digital world, where human interactions are typically facilitated/augmented by technology, the nature of empathy is constantly evolving along with it. The main question is can technology truly understand and foster empathy, or does it merely stimulate emotional intelligence and reduce empathy? This vault explores the intersection of AI, digital communication, perspective-taking, storytelling, emotion wearables, and serious games.**

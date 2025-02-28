@@ -2,7 +2,7 @@
 ## Summary
 Storytelling is a way for humans to share lessons, ideas, and more critically for this research, emotions. Stories are a platform in which humans can connect with each other to find shared experiences between one another. This can promote [[cognitive empathy]], such that the stories can help us experience the emotions of others. For example stories let us experience what it might be like to lose a loved one, or to experience what it is like to win a championship. Stories promote [[perspective-taking]], by hearing stories from those with different backgrounds or views on the world. Storytelling also pushes the notion of [[Humanism]], that you are not alone in this world, and that we should care for each other. 
 
-Storytelling's influence on empathy is rooted in communication, can storytelling help with [[communication]]?
+Storytelling's influence on empathy is rooted in communication, can storytelling help with [[Communication]]?
 - This research found that using data storytelling techniques (plot lines, unexpected twists, motivating conclusions, etc.) enhanced comprehension of information for communicating insights from data.
 	- [Data Storytelling in Data Visualisation: Does it Enhance the Eficiency and Efectiveness of Information Retrieval and Insights Comprehension?](https://dl.acm.org/doi/pdf/10.1145/3613904.3643022)
 	- ![[Pasted image 20250225120053.png | 500]]
