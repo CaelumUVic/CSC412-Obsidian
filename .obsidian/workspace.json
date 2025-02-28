@@ -25,10 +25,12 @@
             "id": "8fbd3d321945baa5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "image",
+              "state": {
+                "file": "VirtualReality/Examples-of-experimental-platforms-to-study-virtual-embodiment-and-body-ownership.png"
+              },
+              "icon": "lucide-image",
+              "title": "Examples-of-experimental-platforms-to-study-virtual-embodiment-and-body-ownership"
             }
           },
           {
@@ -130,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 401.5
   },
   "right": {
     "id": "887ffab1b56d04bf",
@@ -220,8 +222,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fbd3d321945baa5",
+  "active": "18824809078fa883",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "test.md",
     "Storytelling/Storytelling.md",
     "Storytelling/References.md",
@@ -245,6 +248,13 @@
     "attachments/Pasted image 20250227161545.png",
     "attachments",
     "Storytelling",
+=======
+    "Images",
+    "Story Telling",
+    "Virtual Reality",
+    "Social Media and Digital Communication",
+    "Artificial Intelligence",
+>>>>>>> f677f26e73cee16f605cebfa7531fb83c93d7511
     "Empathy.md",
     "References.md",
     "Empathy (Main Node).md",
