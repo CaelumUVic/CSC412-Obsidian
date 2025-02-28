@@ -1,0 +1,5 @@
+
+- Chen, J., Ning, C., & Chen, C. (2023). A systematic literature review of virtual embodied experience. _Psychology & Marketing, 40_, 2167–2185. [https://doi.org/10.1002/mar.21876](https://doi.org/10.1002/mar.21876)
+- Peck, T. C., Seinfeld, S., Aglioti, S. M., & Slater, M. (2013). Putting yourself in the skin of a Black avatar reduces implicit racial bias. _Consciousness and Cognition, 22_, 779–787. [https://doi.org/10.1016/j.concog.2013.04.016](https://doi.org/10.1016/j.concog.2013.04.016)
+- Perez-Marcos, D. (2018). Virtual reality experiences, embodiment, videogames and their dimensions in neurorehabilitation. _Journal of NeuroEngineering and Rehabilitation, 15_, 113. [https://doi.org/10.1186/s12984-018-0461-0](https://doi.org/10.1186/s12984-018-0461-0)
+- Seinfeld, S., Arroyo-Palacios, J., Iruretagoyena, G., & Slater, M. (2018). Offenders become the victim in virtual reality: Impact of changing perspective in domestic violence. _Scientific Reports, 8_, 2692. [https://doi.org/10.1038/s41598-018-19987-7](https://doi.org/10.1038/s41598-018-19987-7)
