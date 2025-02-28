@@ -1,3 +1,4 @@
+#terminology
 ## Definition
 Communication is the process of exchanging information, thoughts, and emotions between individuals through verbal, nonverbal, and written means. 
 
