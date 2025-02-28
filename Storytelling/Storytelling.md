@@ -10,10 +10,10 @@ Storytelling's influence on empathy is rooted in communication, can storytelling
 ## Applications
 ### Animation
 - Animation allows storytelling to take on new and interesting forms. In history, storytelling has predominately been through verbal stories. Later on stories took the form of writing and allowed stories to be captured and distributed through space and time. With more recent technology like movies taking the main stage in storytelling, it allowed visual elements to be tied with stories. Animation furthers the visual elements of storytelling by enabling more abstract and fictional designs. 
-	- [[The Real-Time Frontier]] is an Unreal Engine tool that makes animation much quicker so that artists 
+	- [[The Real-Time Frontier]] is an Unreal Engine tool that makes animation much quicker so that artists.
 ### Presentations
 - Presentations are a way to communicate stories that have visual components to augment the engagement and comprehension
-	- [[RealityTalk]] us augmented reality to create visualizations based on speech detection
+	- [[RealityTalk]] us augmented reality to create visualizations based on speech detection.
 
 
 
