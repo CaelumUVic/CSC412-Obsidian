@@ -1,7 +1,5 @@
 # Ignore Obsidian system files
-.obsidian/workspace.json
-.obsidian/cache/
-.obsidian/graph.json
+.obsidian/
 
 # Ignore file recovery & backups
 .trash/
