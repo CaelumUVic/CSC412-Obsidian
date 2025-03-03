@@ -10,6 +10,7 @@ While the effects of social media may not be global, the polarization and toxici
 - Causing people to highly focus on themselves instead of others 
 - Removing [[Social Cues]] from conversations through streamlined communication
 - Discouraging authenticity and encouraging anonymity
+- Cultural differences in how social media is utilized 
 ## Applications
 
 In response, social media and digital communication platforms have developed various methods aimed at augmenting, facilitating, and increasing empathy:
