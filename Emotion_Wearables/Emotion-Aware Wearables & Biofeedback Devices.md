@@ -2,7 +2,7 @@
 
 ## Summary
 
-Emotion-aware wearables and biofeedback devices represent an evolving class of **cognitive augmentation tools** designed to enhance emotional self-awareness, regulation, and empathy. These devices leverage **biometric sensors, artificial intelligence (AI), and neurofeedback mechanisms** to provide real-time emotional insights and interventions.
+Emotion-aware wearables and biofeedback devices represent an evolving class of **cognitive augmentation tools** designed to enhance emotional self-awareness, regulation, and [[Empathy|empathy]]. These devices leverage **biometric sensors, artificial intelligence (AI), and neurofeedback mechanisms** to provide real-time emotional insights and interventions.
 
 By tracking **heart rate variability (HRV), electrodermal activity (EDA), brainwave patterns (EEG), and voice tone**, these devices help users regulate emotions, manage stress, and even **improve interpersonal communication** by fostering empathy-driven feedback mechanisms.
 
