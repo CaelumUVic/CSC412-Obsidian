@@ -1,7 +1,6 @@
 # Ignore Obsidian system files
 .obsidian/
 
-
 # Ignore file recovery & backups
 .trash/
 .obsidian/backups/
