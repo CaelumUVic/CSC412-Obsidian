@@ -14,12 +14,12 @@ Biofeedback training is increasingly used in **clinical psychology, workplace we
 ## Applications & Use Cases
 
 - **Clinical Therapy & PTSD Management:** Biofeedback wearables provide guided relaxation and emotional self-regulation strategies, making them effective tools for trauma recovery.
-- **Workplace Wellness & Productivity:** Organizations are incorporating biofeedback wristbands and smart rings to monitor employee **cognitive load and stress levels**.
-- **Athletic Performance & Recovery:** Athletes utilize biofeedback for HRV-based recovery analysis, helping them optimize training intensity and **avoid overtraining syndrome**.
+- **Workplace Wellness & Productivity:** Organizations are incorporating biofeedback wristbands and smart rings to monitor employee cognitive load and stress levels.
+- **Athletic Performance & Recovery:** Athletes utilize biofeedback for HRV-based recovery analysis, helping them optimize training intensity and avoid overtraining syndrome.
 - **Education & Cognitive Training:** Some studies suggest that students using biofeedback-assisted focus training demonstrate higher engagement and cognitive retention.
 
 
 ## Discussion
 
-- Biofeedback wearables help individuals become more attuned to their emotional responses, improving [[Cognitive Empathy]] by making them aware of their emotional state and its impact on others.
-- These tools focus on self-awareness but often lack direct tools to enhance [[Perspective-Taking]] or social interaction.
+- Biofeedback wearables help individuals become more adapted to their emotional responses, improving [[Terminology/Cognitive Empathy]] by making them aware of their emotional state and its impact on others.
+- These tools focus on self-awareness but often lack direct tools to enhance [[Terminology/Perspective-Taking]] or social interaction.

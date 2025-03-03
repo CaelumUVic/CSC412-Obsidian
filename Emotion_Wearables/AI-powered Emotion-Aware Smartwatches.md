@@ -24,5 +24,5 @@ By analyzing **patterns of physiological arousal**, AI-enhanced wearables can re
 
 ## Discussion
 
-- AI-powered smartwatches enhance [[Emotional Empathy]] by alerting users when their stress levels rise, helping them become more aware of emotional responses in social situations.
-- These devices may fail to detect nuanced aspects of [[Theory of Mind]], which requires understanding another person's thoughts and intentions, not just emotions.
+- AI-powered smartwatches enhance [[Terminology/Emotional Empathy]] by alerting users when their stress levels rise, helping them become more aware of emotional responses in social situations.
+- These devices may fail to detect nuanced aspects of [[Terminology/Theory of Mind]], which requires understanding another person's thoughts and intentions, not just emotions.
