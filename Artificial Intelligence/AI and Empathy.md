@@ -1,20 +1,20 @@
 #topic
 ## Summary
 
-Artificial Intelligence (AI) has made significant strides in recent years in recognizing and responding effectively to human emotion. AI-driven empathy augmentation applications in many different industries. However, because of this there are many concerts about the ethics of using AI specifically as the authenticity of machine-generated empathy has potential for misuse.
+Artificial Intelligence (AI) has made many advancements in recent years towards recognizing and responding effectively to human emotion. There are currently several different AI-driven empathy applications that are being used or tested for different industries. With these large advancements coming so quickly, there are many growing concerns about the ethics of this new technology; especially since the use of machine-generated empathy has enormous potential for misuse.
 
-Empathy plays a crucial role in human communication, fostering understanding and Emotional Connection. While AI is incapable of [[Emotional Empathy]] or [[Cognitive Empathy]] empathy many applications have been designed to simulate empathetic interactions through Sentiment Analysis, natural language processing (NLP), and Multimodal Emotional Recognition. These technologies allow AI to interpret text, speech and facial expressions to mimic human empathy.
+Empathy plays a crucial role in human communication, fostering understanding and emotional connection. While AI is thought to be incapable of actual [[Emotional Empathy]] or [[Cognitive Empathy]] empathy, there have been many applications created that simulate empathetic interactions through sentiment analysis, natural language processing (NLP), and multimodal emotion recognition. This combination of technologies allow an AI to interpret text, speech and facial expressions and mimic human empathy.
 
-With the growing usage of AI-powered chatbots and virtual companions many challenges of empathy augmentation accompany it. On one hand, AI can help address emotional fatigue in professionals, particularly in healthcare and mental health fields. On the other hand, reliance on AI for emotional interactions raises concerns about ethical responsibility, bias in AI training data, lack of emotional experience, and the risk of diminishing genuine human connection.
+There has been a rapid adoption of AI-powered chatbots and virtual companions by the public; with this comes many challenges. Although AI chatbots have the potential to help reduce emotional fatigue, in healthcare professionals for example, there are also many ethical concerns. Some of these concerns include; bias in AI training data, lack of emotional experience, and the risk of diminishing genuine human connection.
 
 ## Application
 
-To help augment empathy there have been several AI-driven technologies developed, some of these technologies include:
+There have been several different AI-driven technologies developed to help augment empathy, some of these technologies aim to help:
 
-- Alleviating burnout: There have been tool made to help reduce burnout in healthcare professionals by leveraging the strategic use of AI, [[AI in Healthcare]]
+- **Alleviate burnout**: There have been tool made to help reduce burnout in healthcare professionals by leveraging the strategic use of AI, [[AI in Healthcare]]
     
-- Reducing loneliness: AI is being used in different elder care to give them a compassionate companion to talk to in the form of a chatbot. [[AI Virtual Companions]]
+- **Reduce loneliness**: AI is being used in different elder care settings to give them a compassionate companion to talk to in the form of a chatbot. [[AI Virtual Companions]]
     
-- Teach emotional intelligence: There are emerging technologies being developed in conjunction with AI to teach users how to be more empathetic by modeling responses. [[AI to Teach Empathy]]
+- **Teach emotional intelligence**: There are emerging technologies being developed in conjunction with AI to teach users how to be more empathetic by modeling responses and giving advice. [[AI to Teach Empathy]]
     
-While AI can augment human empathy, it should not be seen as a replacement for genuine human emotional connection. Instead, it should be viewed as a supportive tool that can complement human interactions in environments where empathy is necessary but limited by external factors.
+With these technologies AI is able to augment human empathy however, it should not be seen as a replacement for genuine human connection. Instead, it should be seen as a supportive tool that can help complement human interactions, especially in environments where empathy may be limited due to external factors.

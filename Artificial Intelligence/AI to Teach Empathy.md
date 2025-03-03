@@ -5,6 +5,6 @@ Mpathic is a new AI powered platform that is designed to enhance human empathy b
 ## Research 
 [# Technology that teaches empathy? How mpathic uses AI to help us listen to each other](https://aws.amazon.com/blogs/startups/technology-that-teaches-empathy-how-mpathic-uses-ai-to-help-us-listen-to-each-other/)
 
-mpathic’s AI models were trained using many different datasets, including responses from crisis intervention professionals. The system recognizes empathetic responses, detects instances of miscommunication, and suggests alternative phrasing to enhance engagement.
+Mpathic’s AI models were trained using many different datasets, including responses from crisis intervention professionals. The system recognizes empathetic responses, detects instances of miscommunication, and suggests alternative phrasing to enhance engagement.
 ## Discussion 
-The AI’s ability to coach humans in empathy training to help increase trust and engagement in[[AI in Healthcare | healthcare]], HR, and sales. There are still many challenges that remain in ensuring AI-driven empath does not become overly detached from real human emotions. But, it is still undetermined if AI can truly teach empathy or if it merely reinforces learned behaviors without deeper emotional understanding.
+This AI’s ability to teach humans empathy could help increase trust and engagement in [[AI in Healthcare|healthcare]], HR, and sales. It is still undetermined if an AI can truly teach empathy or if it merely reinforces learned behaviors without deeper emotional understanding.
