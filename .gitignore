@@ -1,1 +1,14 @@
-.obsidian/workspace.json
+# Ignore Obsidian system files
+.obsidian/
+
+# Ignore file recovery & backups
+.trash/
+.obsidian/backups/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+*.swp
+*.swo
