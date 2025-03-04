@@ -1,9 +1,14 @@
-#topic 
+#tool  
 ![[Journey.png]]
 ## Summary
+
 Journey is a minimalist adventure game where a silent robed figure travels across vast deserts and mountains, often encountering other players anonymously. The game emphasizes visual storytelling and emotional resonance.
 
 ## Applications
+
+Research has demonstrated that video games like Journey can enhance empathy in players. The game's design encourages players to form emotional connections with their avatars and with anonymous co-players, fostering a sense of shared experience and mutual support. [Article](https://peacemuseum.wp.st-andrews.ac.uk/2022/06/04/journey-visualising-peace-through-gaming/) 
+
+## Discussion
 
 - **[[Cognitive Empathy]]**  
     The lack of explicit dialogue forces players to interpret the robed figure’s motivations. This “reading between the lines” aspect encourages a rational, imaginative engagement with the silent protagonist’s journey.

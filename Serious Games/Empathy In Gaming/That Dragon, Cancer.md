@@ -1,10 +1,14 @@
-#topic 
+#tool  
 ![[That Dragon, Cancer.png]]
 
 ## Summary  
 That Dragon, Cancer is a deeply personal game created by parents of a young child with terminal cancer. It chronicles their emotional journey and the complexities of caring for a sick loved one.
 
 ## Applications
+
+In a study titled [That Dragon, Cancer: The Use of a Digital Interactive Narrative in Teaching About Family Illness, Death, and Bereavement](https://www.ncfr.org/sites/default/files/2017-12/312-02%20-%20That%20Dragon%2C%20Cancer%20The%20use%20of%20a%20digital%20interactive%20narrative%20in%20teaching%20about%20family%20illness%2C%20death%2C%20and%20bereavement.pdf) researchers explored the game's effectiveness as an educational tool. The study found that engaging with the game helped students deepen their understanding of the emotional and psychological challenges faced by families dealing with terminal illness, thereby fostering empathy and insight into the complexities of caregiving and grief.
+
+## Discussion
 
 - [[Cognitive Empathy]]  
 	Players learn about the difficult choices and emotional toll on the parents, encouraging them to rationally engage with medical, financial, and emotional realities that come with terminal illness.
