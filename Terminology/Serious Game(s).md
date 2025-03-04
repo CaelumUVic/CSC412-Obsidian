@@ -7,8 +7,7 @@ Serious games are games specifically designed with educational or socially benef
 
 See all about serious games below 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=JmG3fdptY_k" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JmG3fdptY_k" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Link To Empathy 
