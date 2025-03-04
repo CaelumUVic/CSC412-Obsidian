@@ -1,7 +1,7 @@
 #tool
 ## Summary
 
-One of the key components of empathy is [[Perspective-Taking]]. For many people, this ability is developed using the imagination, but what if you were to literally step into another person's shoes and see the world through their eyes? 
+One of the key components of empathy is [[Terminology/Perspective-Taking]]. For many people, this ability is developed using the imagination, but what if you were to literally step into another person's shoes and see the world through their eyes? 
 
 This idea has been made possible through a process known as *virtual embodiment*, where a VR user experiences the feeling of being inside a virtual body (or avatar) that is not their own. Virtual embodiment involves having a sense of body ownership, self-location, and agency to provide as complete of an experience as possible. To accomplish these experiences, most virtual embodiment tools consist of a combination of the following components. 
 
