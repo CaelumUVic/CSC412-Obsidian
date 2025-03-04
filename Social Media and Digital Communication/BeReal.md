@@ -1,4 +1,4 @@
-#technology
+#tool 
 ## Summary
 BeReal is a social media platform built to increase the authenticity of their users and help them maintain and form meaningful connections. To do this, BeReal allows users to take photos of themselves and their surroundings at random times throughout the day. This mechanism doesn’t allow users to stage or edit their photography, building trust and empathy by encouraging authenticity.
 
@@ -18,8 +18,4 @@ While BeReal may help build empathy amongst its user base, that is not its expli
 
 --- 
 
-- *BeReal. – Your daily dose of real life.* (n.d.). Retrieved February 28, 2025, from [https://bereal.com](https://bereal.com)
-- *Everyone stop what you’re doing and BeReal: Live networked publics and authenticity on BeReal.* (n.d.). [https://journals.sagepub.com/doi/epub/10.1177/20563051231216959](https://journals.sagepub.com/doi/epub/10.1177/20563051231216959)
-- Morgan, B., & Fowers, B. (n.d.). *Empathy and authenticity online: The roles of moral identity, moral disengagement, and parenting style.* Journal of Personality, 90(2), 183–202. [https://doi.org/10.1111/jopy.12661](https://doi.org/10.1111/jopy.12661)
-- Tomaszek, K. (n.d.-a). *Do positive emotions prompt people to be more authentic? The mediation effect of gratitude and empathy dimensions on the relationship between humility state and perceived false self.* Current Issues in Personality Psychology, 11(4). [https://doi.org/10.5114/cipp.2022.116363](https://doi.org/10.5114/cipp.2022.116363)
 

@@ -1,4 +1,4 @@
-#technology 
+#tool 
 ## Summary
 Emoticons or emojis, first appeared on computers in the 1990’s to communicate information in a “simple, succinct way”. Since then, emojis were added to Unicode by the Unicode Consortium, and have entered nearly every computer system. In the context of empathy, emoticons can help people express social information, including empathy, in a succinct and meaningful way. 
 
@@ -13,5 +13,3 @@ Emojis augment empathic cognition by effectively representing emotions, clarifyi
 
 ---
 
-- Erle, T. M., Schmid, K., Goslar, S. H., & Martin, J. D. (2022). *Emojis as social information in digital communication.* Emotion, 22(7), 1529–1543. [https://doi.org/10.1037/emo0000992](https://doi.org/10.1037/emo0000992)
-- Pardes, A. (2018, February 1). *Emoji: The Complete History.* WIRED. [https://www.wired.com/story/guide-emoji/](https://www.wired.com/story/guide-emoji/)
