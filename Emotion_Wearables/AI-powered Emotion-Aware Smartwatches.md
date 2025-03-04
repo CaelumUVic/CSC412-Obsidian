@@ -1,4 +1,3 @@
-# AI-powered Emotion-Aware Smartwatches
 #tool
 ## Summary
 
