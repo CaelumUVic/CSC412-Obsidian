@@ -10,4 +10,4 @@
 - Schrier, K. (2021). **Designing and using games to teach ethics and empathy**. In Learning, Education and Games, Volume 3: _100 Games to Use in the Classroom & Beyond_ (pp. 189-204). ETC Press. https://press.etc.cmu.edu/index.php/product/learning-education-games-vol-3/
 - Spoon, M. (2018, August 9). _Video games can teach empathy_. Technology Networks. [https://www.technologynetworks.com/neuroscience/news/video-games-can-teach-empathy-307396](https://www.technologynetworks.com/neuroscience/news/video-games-can-teach-empathy-307396)
 - Olivier, L., Sterkenburg, P., & van Rensburg, E. (2019). _The effect of a serious game on empathy and prejudice of psychology students towards persons with disabilities_. African Journal of Disability, 8, Article 328. https://doi.org/10.4102/ajod.v8i0.328
-- 
+- **Coulson, M., Michaelides, M. P., & Patel, H. (2020).** Cognitive load and empathy in serious games. _ResearchGate_. [https://www.researchgate.net/publication/344948442_Cognitive_Load_and_Empathy_in_Serious_Games](https://www.researchgate.net/publication/344948442_Cognitive_Load_and_Empathy_in_Serious_Games)

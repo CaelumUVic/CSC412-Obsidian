@@ -1,5 +1,5 @@
 #topic 
-## The Role of Serious Games in Enhancing Empathy
+## Summary
 
 Serious games are designed with purposes beyond entertainment, often aiming to educate or promote social change. By immersing players in diverse perspectives and challenging scenarios, these games can effectively cultivate [[Empathy]]. For instance, research has shown that playing games designed to train empathy can lead to greater connectivity in brain networks related to empathy and [[Perspective-Taking]].
 
@@ -11,7 +11,7 @@ The article relating to this video can be found here -> [Article](https://www.te
 
 <iframe width="560" height="315" src="https://youtu.be/463Bl7GAYgc?si=sWc0HTUGoZ0vt7FS" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
-##  Mechanisms of Empathy Development in Serious Games
+#### Mechanisms of Empathy Development in Serious Games
 
 - [[Perspective-Taking]]: Players assume roles different from their own, encouraging them to see the world through another's eyes.​
     
@@ -19,12 +19,9 @@ The article relating to this video can be found here -> [Article](https://www.te
     
 - Decision-Making: Choices with moral or ethical implications prompt players to consider the impact of their actions on others.​
 
-## Case Study
+##  Applications
 - ["The World of Empa](https://pmc.ncbi.nlm.nih.gov/articles/PMC6489198/)": This game was designed to enhance [[Empathy]] and reduce prejudice toward individuals with disabilities. A study involving psychology students found that playing the game resulted in a slight short-term effect on reducing prejudice and enhancing certain aspects of empathy. 
 	![[world of empa.png]]
-
-
-## Limitations and Drawbacks 
 
 Despite their potential, serious games face challenges:​
 

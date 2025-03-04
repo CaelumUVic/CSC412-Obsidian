@@ -8,10 +8,12 @@ Empathy is the heart of human connection shaping how we communicate, form relati
 **Sub-Topics**: each member of our group selected a subtopic that related to the main topic. Each of our subtopics are seen in the figure above. These have #topic at the top of the note.
 - [[Storytelling]]
 - [[Virtual Reality and Empathy Augmentation]]
+- [[Serious Game(s)]]
 **Related Technologies**: each member found technologies related to our subtopics that augmented empathy. These have #tool at the top of the note.
 - [[The Real-Time Frontier]]
 - [[RealityTalk]]
 - [[Virtual Embodiment]]
+- [[iThrive Sim]]
 **Glossary Terms**: we have many glossary terms each in their own note that we used to connect our notes together. These have #terminology at the top of the note.
 - [[Cognitive Empathy]]
 - [[Communication]]
@@ -21,6 +23,7 @@ Empathy is the heart of human connection shaping how we communicate, form relati
 - [[Social Cues]]
 - [[Social Disinhibition]]
 - [[Theory of Mind]]
+- [[Serious Game(s)]]
 
 
 
