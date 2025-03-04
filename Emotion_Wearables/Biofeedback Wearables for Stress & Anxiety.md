@@ -1,5 +1,5 @@
 # Biofeedback Wearables for Stress & Anxiety
-
+#tool
 ## Summary
 
 Biofeedback wearables are a subset of **emotion-aware technology** designed to monitor **autonomic nervous system responses** and provide **real-time interventions**. These devices work by tracking physiological markers such as **heart rate variability (HRV), electrodermal activity (EDA), skin temperature, and muscle tension**.
@@ -21,5 +21,5 @@ Biofeedback training is increasingly used in **clinical psychology, workplace we
 
 ## Discussion
 
-- Biofeedback wearables help individuals become more adapted to their emotional responses, improving [[Terminology/Cognitive Empathy]] by making them aware of their emotional state and its impact on others.
-- These tools focus on self-awareness but often lack direct tools to enhance [[Terminology/Perspective-Taking]] or social interaction.
+- Biofeedback wearables help individuals become more adapted to their emotional responses, improving [[Cognitive Empathy]] by making them aware of their emotional state and its impact on others.
+- These tools focus on self-awareness but often lack direct tools to enhance [[Perspective-Taking]] or social interaction.

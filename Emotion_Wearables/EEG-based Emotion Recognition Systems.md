@@ -1,5 +1,5 @@
 # EEG-based Emotion Recognition Systems
-
+#tool
 ## Summary
 
 EEG-based emotion recognition systems utilize **electroencephalography (EEG) sensors** to measure **electrical activity in the brain**, allowing for the detection and classification of emotional states. By analyzing **brainwave frequency bands (Alpha, Beta, Theta, Delta, and Gamma)**, these systems help researchers and clinicians understand **emotional processing, stress responses, and cognitive load**.
@@ -21,5 +21,5 @@ These technologies are increasingly integrated into **mental health treatments, 
 
 ## Discussion
 
-- EEG systems can help individuals recognize and regulate emotional states, potentially aiding those struggling with [[Terminology/Social Cues]] and emotional awareness.
-- EEG-based systems primarily detect internal emotional states but may not effectively interpret [[Terminology/Social Disinhibition]], which influences online interactions and real-world empathy.
+- EEG systems can help individuals recognize and regulate emotional states, potentially aiding those struggling with [[Social Cues]] and emotional awareness.
+- EEG-based systems primarily detect internal emotional states but may not effectively interpret [[Social Disinhibition]], which influences online interactions and real-world empathy.
