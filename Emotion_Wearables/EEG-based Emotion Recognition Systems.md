@@ -1,4 +1,3 @@
-# EEG-based Emotion Recognition Systems
 #tool
 ## Summary
 

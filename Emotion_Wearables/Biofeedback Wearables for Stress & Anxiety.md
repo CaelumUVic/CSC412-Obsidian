@@ -1,4 +1,3 @@
-# Biofeedback Wearables for Stress & Anxiety
 #tool
 ## Summary
 

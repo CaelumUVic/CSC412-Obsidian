@@ -1,4 +1,3 @@
-# Emotion-Aware Wearables & Biofeedback Devices
 #topic
 ## Summary
 
@@ -26,8 +25,4 @@ Wearable devices such as emotion-aware smartwatches continuously monitor physiol
 - [[EEG-based Emotion Recognition Systems]]
 - [[AI-powered Emotion-Aware Smartwatches]]
 
-## References
 
-1. Lui, G. Y., Loughnane, D., Polley, C., Jayarathna, T., & Breen, P. P. (2022). The Apple Watch for monitoring mental health–related physiological symptoms: Literature review. *JMIR Mental Health, 9*(9), e37354. [Wearable Technology in Mental Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC9494213/)
-2. Gerboni, G., Comunale, G., Chen, W., Lever Taylor, J., Migliorini, M., Picard, R., Cruz, M., & Regalia, G. (2023). Prospective clinical validation of the Empatica EmbracePlus wristband as a reflective pulse oximeter. *Frontiers in Digital Health, 5*, 1258915. [Neural-based Emotion Recognition in Wearables](https://pubmed.ncbi.nlm.nih.gov/38111608/)
-3. Razavi, M., McDonald, A., Mehta, R., & Sasangohar, F. (2023). Evaluating mental stress among college students using heart rate and hand acceleration data collected from wearable sensors. *arXiv preprint* arXiv:2309.11097. [Adaptive Biofeedback Systems](https://arxiv.org/abs/2309.11097/)
