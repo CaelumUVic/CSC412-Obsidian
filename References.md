@@ -14,4 +14,9 @@
 - Sperandeo, R., Cioffi, V., Mosca, L. L., Longobardi, T., Moretto, E., Alfano, Y. M., Scandurra, C., Muzii, B., Cantone, D., Guerriera, C., Architravo, M., & Maldonato, N. M. (n.d.). *Frontiers.* Frontiers in Psychology, 12. [https://doi.org/10.3389/fpsyg.2021.671790](https://doi.org/10.3389/fpsyg.2021.671790)
 - Erle, T. M., Schmid, K., Goslar, S. H., & Martin, J. D. (2022). *Emojis as social information in digital communication.* Emotion, 22(7), 1529–1543. [https://doi.org/10.1037/emo0000992](https://doi.org/10.1037/emo0000992)
 - Pardes, A. (2018, February 1). *Emoji: The Complete History.* WIRED. [https://www.wired.com/story/guide-emoji/](https://www.wired.com/story/guide-emoji/)
-- Chen, Y., & Xu, Y. (n.d.). *Exploring the effect of social support and empathy on user engagement in online mental health communities - PMC.* International Journal of Environmental Research and Public Health, 18(13). [https://doi.org/10.3390/ijerph18136855](https://doi.org/10.3390/ijerph18136855)
+- Gill, S. P. (2024). *Empathy and AI: cognitive empathy or emotional (affective) empathy?* AI & Society, 39(6), 2641–2642. [https://doi.org/10.1007/s00146-024-02118-4](https://doi.org/10.1007/s00146-024-02118-4)
+- Woebot Health. (2025, February 28). *Woebot Health.* [https://woebothealth.com/](https://woebothealth.com/)
+- Wysa - Everyday Mental Health. (2025). *Wysa.com.* [https://www.wysa.com/](https://www.wysa.com/)
+- Chen, A. Y., Koegel, S. I., Hannon, O., & Ciriello, R. (2023). *Feels Like Empathy: How “Emotional” AI Challenges Human Essence.* AIS Electronic Library (AISeL). [https://aisel.aisnet.org/acis2023/80/](https://aisel.aisnet.org/acis2023/80/)
+- Samuel, S. (2025, February 10). *AI is impersonating human therapists. Can it be stopped?* Vox. [https://www.vox.com/future-perfect/398905/ai-therapy-chatbots-california-bill](https://www.vox.com/future-perfect/398905/ai-therapy-chatbots-california-bill)
+
