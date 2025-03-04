@@ -1,7 +1,7 @@
 #tool ![[Cloud Chasers.png]]
 
 ## Summary  
-Cloud Chasers is a narrative survival game where players guide a migrant family through a desert, searching for a better life. The game focuses on the hardships faced by those who flee their homes due to climate or economic factors.  
+On the topic of [[Serious Games and Empathy]] Cloud Chasers is a narrative survival game where players guide a migrant family through a desert, searching for a better life. The game focuses on the hardships faced by those who flee their homes due to climate or economic factors.  
 
 ## Applications
 

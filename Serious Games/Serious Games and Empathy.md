@@ -23,6 +23,13 @@ The article relating to this video can be found here -> [Article](https://www.te
 ##  Applications
 - ["The World of Empa](https://pmc.ncbi.nlm.nih.gov/articles/PMC6489198/)": This game was designed to enhance [[Empathy]] and reduce prejudice toward individuals with disabilities. A study involving psychology students found that playing the game resulted in a slight short-term effect on reducing prejudice and enhancing certain aspects of empathy. 
 	![[world of empa.png]]
+	- **[[Depression Quest]]**: An interactive fiction game that portrays the daily experiences of living with depression. It uses text-based scenarios and choice limitations that mirror the condition’s impact. 
+	- **[[Journey]]**: A minimalist adventure game where a silent robed figure travels across vast deserts and mountains, often encountering other players anonymously. The game emphasizes visual storytelling and emotional resonance. 
+	- **[[That Dragon, Cancer]]**: A deeply personal game created by parents of a young child with terminal cancer. It chronicles their emotional journey and the complexities of caring for a sick loved one. 
+	- **[[Cloud Chasers]]**: A narrative survival game where players guide a migrant family through a desert, searching for a better life. The game focuses on the hardships faced by those who flee their homes due to climate or economic factors.
+
+
+
 
 Despite their potential, serious games face challenges:​
 

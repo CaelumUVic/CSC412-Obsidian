@@ -1,7 +1,7 @@
 #tool ![[Depression Quest.png]]
 
 ## Summary
-Depression Quest is an interactive fiction game focused on portraying the day-to-day experiences of living with depression. It uses text-based scenarios and choice limitations that mirror the condition’s impact.
+On the topic of [[Serious Games and Empathy]] Depression Quest is an interactive fiction game focused on portraying the day-to-day experiences of living with depression. It uses text-based scenarios and choice limitations that mirror the condition’s impact.
 
 ## Applications 
 

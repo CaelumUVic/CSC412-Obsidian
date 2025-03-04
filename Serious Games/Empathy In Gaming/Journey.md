@@ -2,7 +2,7 @@
 ![[Journey.png]]
 ## Summary
 
-Journey is a minimalist adventure game where a silent robed figure travels across vast deserts and mountains, often encountering other players anonymously. The game emphasizes visual storytelling and emotional resonance.
+On the topic of [[Serious Games and Empathy]]Journey is a minimalist adventure game where a silent robed figure travels across vast deserts and mountains, often encountering other players anonymously. The game emphasizes visual storytelling and emotional resonance.
 
 ## Applications
 

@@ -2,7 +2,7 @@
 ![[That Dragon, Cancer.png]]
 
 ## Summary  
-That Dragon, Cancer is a deeply personal game created by parents of a young child with terminal cancer. It chronicles their emotional journey and the complexities of caring for a sick loved one.
+on the topic of [[Serious Games and Empathy]] That Dragon, Cancer is a deeply personal game created by parents of a young child with terminal cancer. It chronicles their emotional journey and the complexities of caring for a sick loved one.
 
 ## Applications
 
