@@ -6,7 +6,7 @@ On the topic of [[Serious Games and Empathy]]Journey is a minimalist adventure g
 
 ## Applications
 
-Research has demonstrated that video games like Journey can enhance empathy in players. The game's design encourages players to form emotional connections with their avatars and with anonymous co-players, fostering a sense of shared experience and mutual support. [Article](https://peacemuseum.wp.st-andrews.ac.uk/2022/06/04/journey-visualising-peace-through-gaming/) 
+Research has demonstrated that video games like Journey can enhance empathy in players. The game's design encourages players to form emotional connections with their avatars and with anonymous co-players, fostering a sense of shared experience and mutual support. [Journey](https://peacemuseum.wp.st-andrews.ac.uk/2022/06/04/journey-visualising-peace-through-gaming/) 
 
 ## Discussion
 

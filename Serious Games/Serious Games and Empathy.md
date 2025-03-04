@@ -7,7 +7,7 @@ Serious games are designed with purposes beyond entertainment, often aiming to e
 
 
 #### Video Games Can Teach [[Empathy]]
-The article relating to this video can be found here -> [Article](https://www.technologynetworks.com/neuroscience/news/video-games-can-teach-empathy-307396) 
+The article relating to this video can be found here -> [Video Games Can Teach Empathy](https://www.technologynetworks.com/neuroscience/news/video-games-can-teach-empathy-307396) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/463Bl7GAYgc?si=SGJhTcEH1fyN5RuF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -1,5 +1,5 @@
 #tool 
-## **Summary**
+## Summary
 
 iThrive Sim lives within the group of  [[Serious Game(s)]] designed to foster cognitive and emotional empathy, improve [[communication]] and [[Perspective-Taking]], and engage young people in civic learning. Developed by iThrive Games Foundation, this simulation-based platform provides interactive, role-playing experiences where players navigate real-world dilemmas through collaborative decision-making. By immersing players in complex social and political issues, iThrive Sim encourages deeper engagement with [[Empathy]]-driven leadership, problem-solving, and media literacy.
 
