@@ -3,6 +3,9 @@
 
 Serious games are designed with purposes beyond entertainment, often aiming to educate or promote social change. By immersing players in diverse perspectives and challenging scenarios, these games can effectively cultivate [[Empathy]]. For instance, research has shown that playing games designed to train empathy can lead to greater connectivity in brain networks related to empathy and [[Perspective-Taking]].
 
+![[Spectrum.png]]
+
+
 #### Video Games Can Teach [[Empathy]]
 The article relating to this video can be found here -> [Article](https://www.technologynetworks.com/neuroscience/news/video-games-can-teach-empathy-307396) 
 
