@@ -17,7 +17,7 @@ Empathy is the heart of human connection shaping how we communicate, form relati
 - [[Communication]]
 - [[Emotional Empathy]]
 - [[Emotional Fatigue]]
-- [[Perspective-Taking]]
+- [[Terminology/Perspective-Taking]]
 - [[Social Cues]]
 - [[Social Disinhibition]]
 - [[Theory of Mind]]

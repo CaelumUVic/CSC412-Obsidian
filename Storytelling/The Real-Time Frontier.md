@@ -10,4 +10,4 @@ They have a "Shot is King" philosophy which is more of a bottom-up approach wher
 
 
 ## Discussion
-This tool still requires a large development team to produce animated videos but is a step further for making animation more accessible by making it less computationally expensive. By making it less computationally expensive artists can create animation projects much quicker, which allows for immersive storytelling using animation to be used more widely. Quicker animation process allows for more stories to be put out in to the world. Which then allows for more [[Perspective-Taking]] and [[Communication]] between people.
+This tool still requires a large development team to produce animated videos but is a step further for making animation more accessible by making it less computationally expensive. By making it less computationally expensive artists can create animation projects much quicker, which allows for immersive storytelling using animation to be used more widely. Quicker animation process allows for more stories to be put out in to the world. Which then allows for more [[Terminology/Perspective-Taking]] and [[Communication]] between people.

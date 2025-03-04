@@ -1,7 +1,7 @@
 #topic
 ## Summary 
 
-Virtual reality (VR) is a technology that immerses users in digital environments, creating a strong sense of presence and interaction. While many people think of VR as being used for entertainment, it has also been studied as a tool for enhancing empathy by allowing users to experience perspectives different from their own - a process known as [[Perspective-Taking]]. By simulating real-world scenarios, VR can help people understand the emotions, challenges, and experiences of others in a more visceral way. This has applications in education, social awareness, and therapy. 
+Virtual reality (VR) is a technology that immerses users in digital environments, creating a strong sense of presence and interaction. While many people think of VR as being used for entertainment, it has also been studied as a tool for enhancing empathy by allowing users to experience perspectives different from their own - a process known as [[Terminology/Perspective-Taking]]. By simulating real-world scenarios, VR can help people understand the emotions, challenges, and experiences of others in a more visceral way. This has applications in education, social awareness, and therapy. 
 
 ![[TIM_Mar-Apr2021_Perspective-Taking-in-VR_1920x1080_thumb2.jpg]]
 [source](https://trainingindustry.com/magazine/mar-apr-2021/perspective-taking-in-virtual-reality/)
