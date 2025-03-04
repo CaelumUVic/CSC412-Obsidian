@@ -3,7 +3,7 @@
 ## Summary
 On the topic of [[Serious Games and Empathy]] Depression Quest is an interactive fiction game focused on portraying the day-to-day experiences of living with depression. It uses text-based scenarios and choice limitations that mirror the condition’s impact.
 
-## Applications 
+## Research 
 
 A Study titled [Social and Cognitive Affordances of Two Depression-Themed Games](https://journals.sagepub.com/doi/10.1177/1555412017742307) analyzed player-generated discussions to explore the social and cognitive effects of "Depression Quest" and "Actual Sunlight." The findings suggest that such games can foster empathy and provide insight into the experiences of individuals living with depression.
 

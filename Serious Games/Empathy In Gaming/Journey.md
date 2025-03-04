@@ -4,7 +4,7 @@
 
 On the topic of [[Serious Games and Empathy]]Journey is a minimalist adventure game where a silent robed figure travels across vast deserts and mountains, often encountering other players anonymously. The game emphasizes visual storytelling and emotional resonance.
 
-## Applications
+## Research
 
 Research has demonstrated that video games like Journey can enhance empathy in players. The game's design encourages players to form emotional connections with their avatars and with anonymous co-players, fostering a sense of shared experience and mutual support. [Journey](https://peacemuseum.wp.st-andrews.ac.uk/2022/06/04/journey-visualising-peace-through-gaming/) 
 
