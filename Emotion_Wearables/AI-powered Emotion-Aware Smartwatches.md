@@ -5,12 +5,9 @@ AI-powered emotion-aware smartwatches are **advanced wearables** designed to tra
 
 By analyzing **patterns of physiological arousal**, AI-enhanced wearables can recognize emotional states and suggest adaptive responses, such as **breathing exercises, guided meditation, or notifications prompting behavioral adjustments**.
 
-## Reference Articles
-
-- [AI-Driven Emotion Tracking in Wearable Technology](https://pmc.ncbi.nlm.nih.gov/articles/PMC9494213/)
-- [The Role of AI-powered Smartwatches in Emotional Self-Regulation](https://arxiv.org/abs/2309.11097/)
-
-## Applications & Use Cases
+## Research
+[AI-Driven Emotion Tracking in Wearable Technology](https://pmc.ncbi.nlm.nih.gov/articles/PMC9494213/)
+[The Role of AI-powered Smartwatches in Emotional Self-Regulation](https://arxiv.org/abs/2309.11097/)
 
 - **Mental Health & Personalized Therapy:** AI-powered smartwatches help individuals with stress management, emotional regulation, and early warning signs of depression and anxiety.
 - **Workplace Performance & Burnout Prevention:** By monitoring real-time stress levels, these smartwatches provide micro-intervention suggestions to prevent burnout and improve focus.

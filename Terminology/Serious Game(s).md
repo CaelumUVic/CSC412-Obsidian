@@ -2,7 +2,7 @@
 
 ## Definition
 
-Serious games are games specifically designed with educational or socially beneficial objectives in mind, rather than purely for entertainment. They often incorporate real-world issues, simulations, or skill-building activities to help players learn, practice, or understand complex concepts like [[Empathy]], [[Perspective-Taking]], [[Social Cues]] and [[Communication]] in a more engaging way.
+Serious games are games specifically designed with educational or socially beneficial objectives in mind, rather than purely for entertainment. They often incorporate real-world issues, simulations, or skill-building activities to help players learn, practice, or understand complex concepts like empathy, [[Perspective-Taking]], [[Social Cues]] and [[Communication]] in a more engaging way.
 
 
 See all about serious games below 
@@ -12,7 +12,7 @@ See all about serious games below
 
 ## Link To Empathy 
 
-By placing players in unfamiliar situations or roles, serious games can foster [[Empathy]] by allowing individuals to experience perspectives different from their own. This immersive quality helps players develop understanding and compassion toward others’ viewpoints, challenges, and contexts.
+By placing players in unfamiliar situations or roles, serious games can foster empathy by allowing individuals to experience perspectives different from their own. This immersive quality helps players develop understanding and compassion toward others’ viewpoints, challenges, and contexts.
 
 
 
