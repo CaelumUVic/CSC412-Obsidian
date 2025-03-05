@@ -21,6 +21,7 @@ Start exploring the rest of the vault from here!
 - [[AI and Empathy]]
 - [[Social Media and Digital Communication]]
 - [[Emotion-Aware Wearables & Biofeedback Devices]]
+- [[Serious Games and Empathy]]
 
 
 
