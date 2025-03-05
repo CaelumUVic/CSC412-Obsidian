@@ -5,12 +5,9 @@ Biofeedback wearables are a subset of **emotion-aware technology** designed to m
 
 Biofeedback training is increasingly used in **clinical psychology, workplace wellness programs, and mindfulness training** to help individuals develop greater emotional control and stress resilience.
 
-## Reference Articles
-
-- [Wearable Technology in Mental Health: Biofeedback for Stress Management](https://pmc.ncbi.nlm.nih.gov/articles/PMC9494213/)
-- [The Role of Biofeedback in Reducing Stress and Anxiety](https://pubmed.ncbi.nlm.nih.gov/38111608/)
-
-## Applications & Use Cases
+## Research
+[Wearable Technology in Mental Health: Biofeedback for Stress Management](https://pmc.ncbi.nlm.nih.gov/articles/PMC9494213/)
+[The Role of Biofeedback in Reducing Stress and Anxiety](https://pubmed.ncbi.nlm.nih.gov/38111608/)
 
 - **Clinical Therapy & PTSD Management:** Biofeedback wearables provide guided relaxation and emotional self-regulation strategies, making them effective tools for trauma recovery.
 - **Workplace Wellness & Productivity:** Organizations are incorporating biofeedback wristbands and smart rings to monitor employee cognitive load and stress levels.

@@ -5,13 +5,10 @@ EEG-based emotion recognition systems utilize **electroencephalography (EEG) sen
 
 These technologies are increasingly integrated into **mental health treatments, neurofeedback training, and immersive gaming experiences**, making them pivotal tools in **cognitive augmentation**.
 
-## Reference Articles
-
-- [Adaptive Biofeedback Systems for EEG-Based Emotion Detection](https://arxiv.org/abs/2309.11097/)
-- [Neural-based Emotion Recognition: Applications in Cognitive Augmentation](https://pubmed.ncbi.nlm.nih.gov/38111608/)
-
-## Applications & Use Cases
-
+## Research
+ [Adaptive Biofeedback Systems for EEG-Based Emotion Detection](https://arxiv.org/abs/2309.11097/)
+ [Neural-based Emotion Recognition: Applications in Cognitive Augmentation](https://pubmed.ncbi.nlm.nih.gov/38111608/)
+ 
 - **Neurofeedback Therapy for Anxiety & ADHD:** EEG systems are used in cognitive-behavioral therapy to train patients to regulate brainwave patterns associated with anxiety and hyperactivity.
 - **Brain-Computer Interface (BCI) Development:** Emotion recognition from EEG is critical in assistive technology, enabling users to control devices using brain activity.
 - **Human-Computer Interaction (HCI) & UX Optimization:** EEG-based emotional tracking is applied in usability testing and adaptive software that adjusts interfaces based on user cognitive load.

@@ -5,7 +5,7 @@ On the topic of [[Serious Games and Empathy]] Cloud Chasers is a narrative survi
 
 ## Research
 
-"Cloud Chasers – Journey of Hope" serves as an educational tool that immerses players in the challenges faced by migrants. By guiding a father and daughter through perilous deserts, players confront issues like resource scarcity and unpredictable encounters, fostering a deeper understanding of migration experiences. The game's narrative structure and survival mechanics make it suitable for discussions on [[Empathy]], resilience, and the socio-political aspects of migration. [Cloud Chasers](https://venturebeat.com/games/cloud-chasers-is-a-moving-mobile-exploration-of-the-migrants-journey/) 
+"Cloud Chasers – Journey of Hope" serves as an educational tool that immerses players in the challenges faced by migrants. By guiding a father and daughter through perilous deserts, players confront issues like resource scarcity and unpredictable encounters, fostering a deeper understanding of migration experiences. The game's narrative structure and survival mechanics make it suitable for discussions on empathy, resilience, and the socio-political aspects of migration. [Cloud Chasers](https://venturebeat.com/games/cloud-chasers-is-a-moving-mobile-exploration-of-the-migrants-journey/) 
 
 ## Discussion
 
